@@ -11,4 +11,4 @@ Bootstrap [bootstrap] (https://github.com/azkacrows/NeoHost).
 
 ## Vue
 
-Vue [vue] (https://github.com/azkacrows/NeoVue).
+Vue [vue] (https://github.com/azkacrows/neovue).
